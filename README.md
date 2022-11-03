@@ -20,7 +20,8 @@
     - Disini kita belajar mengenal beberapa fungsi dari end, separator dan string format.
         - end berfungsi untuk penutup pada suatu kalimat
         - sep (separator berfungsi untuk) mencetak atau menampilkan objek ke output seperti ke layar atau file text. Dapat diisi dengan berbagai tanda baca yang menjadi objek pemisah suatu kata atau bilangan.
-        - Fungsi format() berfungsi untuk melakukan pengaturan format string yang akan dicetak atau ditampilkan ke monitor.
+        - Fungsi format() berfungsi untuk melakukan pengaturan format string yang akan dicetak atau ditampilkan ke monitor
+
         ![img](Foto/Latihan1.png)
         ![img](Foto/Latihan1a.png)
         
@@ -41,18 +42,21 @@
     ![img](Foto/Latihan3.png)
 
     - Outputnya seperti ini
+
     ![img](Foto/Latihan3hasil.png)
 
 - Program menghitung luas dan Keliling Lingkaran
-    > Luas     = π × r² 
+    >> Luas     = π × r² 
     >> Keliling = 2 x π × r
-    >>> Nilai Phi yang akan kita gunakan adalah 3.14
-    >>>> r merupakan jari-jari lingkaran
+    >> Nilai Phi yang akan kita gunakan adalah 3.14
+    >> r merupakan jari-jari lingkaran
 
     - Flowchart Program
+
     ![img](Foto/flowchartlingkaran.png)
 
     - Code Program
+    
     ![img](Foto/luaskelilingcode.png)
 
     - Output Program
