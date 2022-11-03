@@ -45,9 +45,9 @@
 
 - Program menghitung luas dan Keliling Lingkaran
     > Luas     = π × r² 
-    > Keliling = 2 x π × r
-    > Nilai Phi yang akan kita gunakan adalah 3.14
-    > r merupakan jari-jari lingkaran
+    >> Keliling = 2 x π × r
+    >>> Nilai Phi yang akan kita gunakan adalah 3.14
+    >>>> r merupakan jari-jari lingkaran
 
     - Flowchart Program
     ![img](Foto/flowchartlingkaran.png)
@@ -58,9 +58,9 @@
     - Output Program
     ![img](Foto/luaskelilinghasil.png)
 
-    > Penjelasan
+    - Penjelasan
     ![img](Foto/importmath.PNG)
-    -Output 3.141592653589793
+    - Output 3.141592653589793
     - Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
 
     - Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil). Ingat bahwa fungsi input() akan menganggap semua nilai inputan bertipe string, sehingga kita perlu melakukan konversi ke tipe yang diinginkan.
